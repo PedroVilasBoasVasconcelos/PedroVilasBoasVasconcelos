@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center"> 🦈 welcome to my GitHub </h1> 
-<p align="center"><i>Engenharia de Software</i></p>
+<p align="center"><i>Software Engineering</i></p>
 
 
 <div align="center"> 
