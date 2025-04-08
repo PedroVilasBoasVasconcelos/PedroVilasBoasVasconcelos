@@ -1,3 +1,7 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=header"/>
+
+---
+
 <div align="center">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100" alt="coding-cat" />
 </div>
@@ -5,6 +9,9 @@
 <h1 align="center"> 🦈 welcome to my GitHub </h1> 
 <p align="center"><i>Software Engineering</i></p>
 
+## About Me
+
+📘 I'm currently pursuing a degree in Software Engineering at the National Institute of Telecommunications (Inatel), exploring different fields of software development like programming, system architecture
 
 <div align="center"> 
   <a href="https://www.linkedin.com/in/pedro-vasconcelos-634731287/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -13,7 +20,18 @@
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+
+### 🔍 What can you find here?
+
+This repository showcases projects focused on:
+
+- Software engineering and mobile application development.  
+- Automated testing and ensuring software quality.  
+- My academic path and personal creations.
+
+Take a look around and feel free to jump in if you’d like! ✨
+
+### 🤖 Languages ​​and Technologies
 
 <img 
     align="left" 
@@ -167,7 +185,7 @@
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <img 
       align="center" 
@@ -184,3 +202,8 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PedroVilasBoasVasconcelos/PedroVilasBoasVasconcelos/output/github-contribution-grid-snake-dark.svg">
 </picture>
 </p>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=4079a8&height=120&section=footer"/>
+
