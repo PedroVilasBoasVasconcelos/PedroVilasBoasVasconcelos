@@ -176,4 +176,4 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVilasBoasVasconcelos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-![snake gif](https://PedroVilasBoasVasconcelos.github.io/snk/github-contribution-grid-snake.gif)
+![snake gif](https://raw.githubusercontent.com/PedroVilasBoasVasconcelos/PedroVilasBoasVasconcelos/output/github-contribution-grid-snake.svg)
