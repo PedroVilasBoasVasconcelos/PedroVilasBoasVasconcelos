@@ -179,7 +179,8 @@
 <!-- fallback pra quem não vê a tag picture -->
 <p align="center">
 <img
-  alt="snake animation"
-  src="https://raw.githubusercontent.com/PedroVilasBoasVasconcelos/PedroVilasBoasVasconcelos/output/github-contribution-grid-snake.svg"
+  alt="github contribution grid snake animation"
+  src="https://raw.githubusercontent.com/PedroVilasBoasVasconcelos/PedroVilasBoasVasconcelos/output/github-contribution-grid-snake-dark.svg"
+/>
 /></p>
 
