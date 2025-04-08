@@ -173,7 +173,7 @@
       align="center" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraSchiavon&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVilasBoasVasconcelos&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 ![snake gif](https://PedroVilasBoasVasconcelos.github.io/snk/github-contribution-grid-snake.gif)
