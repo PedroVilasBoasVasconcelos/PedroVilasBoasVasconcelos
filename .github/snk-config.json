@@ -1,5 +1,5 @@
 {
   "theme": "dark",
-  "color_snake": "#915EFF",
-  "color_dots": "#B5EAEA,#8AC6D0,#5D576B,#372948,#2F195F"
+  "snake_color": "#ff00ff",
+  "background": "#0d1117"
 }
