@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWk2MGhnNjBkMjF5azNzdWd6cndiYWthdzRoNWZsbGIwdnpnM2lybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26xBwdIuRJiAIqHwA/giphy.gif" width="100" alt="coding-cat" />
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100" alt="coding-cat" />
 </div>
 
 <h1 align="center"> 🦈 welcome to my GitHub </h1> 
@@ -176,9 +176,4 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=LauraSchiavon&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroVilasBoasVasconcelos/PedroVilasBoasVasconcelos/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PedroVilasBoasVasconcelos/PedroVilasBoasVasconcelos/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/PedroVilasBoasVasconcelos/PedroVilasBoasVasconcelos/output/pacman-contribution-graph.svg">
-</picture>
 
